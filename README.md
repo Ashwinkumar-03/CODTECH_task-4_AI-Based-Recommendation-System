@@ -26,7 +26,7 @@ The primary objective of this project is to **predict the most relevant items fo
 2. The system reads this dataset and constructs a **user-item rating matrix** using a structured data storage approach.  
 3. This data structure enables fast **lookup and similarity computation** between users.  
 
-#### **Execution and Data Loading)**  
+#### **Execution and Data Loading**  
 ```
 Data loaded successfully!
 Number of users: 100
@@ -42,7 +42,7 @@ Number of items: 50
 2. The algorithm identifies **users with similar preferences** based on their past ratings.  
 3. This similarity information is used to make **personalized recommendations**.  
 
-#### **Execution and Similarity Calculation)**  
+#### **Execution and Similarity Calculation**  
 ```
 Similarity between User 1 and User 2: 0.85
 Similarity between User 1 and User 3: 0.73
